@@ -1,0 +1,2 @@
+Пояснительная[[:space:]]записка.docx filter=lfs diff=lfs merge=lfs -text
+Презентация.pptx filter=lfs diff=lfs merge=lfs -text
